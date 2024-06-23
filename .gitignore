@@ -1,0 +1,36 @@
+# Node.js
+/node_modules
+/server/node_modules
+/client/node_modules
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+
+.cache
+
+# Gatsby files
+.cache/
+public
+
+# VS Code directories and files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IntelliJ IDEA
+.idea
+
+# SASS cache
+.sass-cache/
+
+# #Mac System files
+.DS_Store
+
+# Temporary folders
+tmp/
+temp/
